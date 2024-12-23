@@ -1,12 +1,16 @@
 # Fdb version 4
-["bibtex main"] 1734930623.45276 "main.aux" "main.bbl" "main" 1734930629.53347 2
-  "main.aux" 1734930629.43313 4431 076cf912d97d345b219d7fc5634b08ae "pdflatex"
+["bibtex main"] 1734931976.60807 "main.aux" "main.bbl" "main" 1734931982.52478 2
+  "main.aux" 1734931982.4204 4431 076cf912d97d345b219d7fc5634b08ae "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1734930626.78928 "/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_llpnanoAOD/main.tex" "main.pdf" "main" 1734930629.53355 0
-  "/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_llpnanoAOD/main.tex" 1734910692 32765 74ae9fef440dca651919cf34226b0191 ""
+["pdflatex"] 1734931979.78551 "/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_ffNtuple/main.tex" "main.pdf" "main" 1734931982.52485 0
+  "../UniversityLogos/CMSlogo.png" 1734910692 262953 492dc041aac292ad3eadc16013db9a65 ""
+  "../UniversityLogos/logos.png" 1734910694 61342 a0d06901cacc05c351edc8e11aac9696 ""
+  "../UniversityLogos/lpcdm_logo.png" 1734910694 403227 5b6fc420ba10d61a930cbb10703efa38 ""
+  "../UniversityLogos/rotunda.jpg" 1734910692 3403 2bcbafa0db1eca7d9b2cecb3ba07ba4b ""
+  "/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_ffNtuple/main.tex" 1734931973.72098 32860 b4b991bbbaeec36715c269f64d685961 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -271,7 +275,6 @@
   "1000GeV/zd_ee_pt_5_lxyupto150.png" 1734910694 34400 9f889de4d0854db9b8ecf0d6fe21de1b ""
   "1000GeV/zd_mumu_pt_0p25_lxyupto400.png" 1734910694 35077 a5a5cf32130374662c7f465a5df10857 ""
   "1000GeV/zd_mumu_pt_5_lxyupto400.png" 1734910694 35722 bc23709cca880321d4d6e4dda81236e0 ""
-  "CMSlogo.png" 1734910692 262953 492dc041aac292ad3eadc16013db9a65 ""
   "FeyDia.jpg" 1734910692 141425 56c8a0f38ff58c32d73f36c8eeefebf0 ""
   "ee_collimation.png" 1734910694 39623 14fc7edc898b7de811eb304510a08883 ""
   "genE_genE_dR_ptG30_LxyUpto150_0p25.png" 1734910694 28074 473d4f2fa7f26b17c19b1999a50ebc42 ""
@@ -282,14 +285,11 @@
   "genMu_genMu_dR_ptG30_LxyUpto400_5.png" 1734910694 30232 ae8213ad4b18e6aab78a5994d990e237 ""
   "image (15).png" 1734910694 148619 ea36e90ec01f0a298c6e7b352c4ff1f1 ""
   "lj.png" 1734910694 18811 093928c104597cc7815a043310069fbf ""
-  "logos.png" 1734910694 61342 a0d06901cacc05c351edc8e11aac9696 ""
-  "lpcdm_logo.png" 1734910694 403227 5b6fc420ba10d61a930cbb10703efa38 ""
-  "main.aux" 1734930629.43313 4431 076cf912d97d345b219d7fc5634b08ae "pdflatex"
-  "main.bbl" 1734930623.93964 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
-  "main.nav" 1734930629.43397 3062 fee55c42b151b90a888ba37f42360a48 "pdflatex"
-  "main.out" 1734930627.27775 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1734910692 32765 74ae9fef440dca651919cf34226b0191 ""
-  "rotunda.jpg" 1734910692 3403 2bcbafa0db1eca7d9b2cecb3ba07ba4b ""
+  "main.aux" 1734931982.4204 4431 076cf912d97d345b219d7fc5634b08ae "pdflatex"
+  "main.bbl" 1734931976.67189 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
+  "main.nav" 1734931982.42126 3062 fee55c42b151b90a888ba37f42360a48 "pdflatex"
+  "main.out" 1734931980.26968 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1734931973.72098 32860 b4b991bbbaeec36715c269f64d685961 ""
   "zd_e_pt_5_lxy_150.png" 1734910692 29425 4e088658e6ddd3e04c328a6eafba2757 ""
   "zd_ee_lxy_0p25_ptG30.png" 1734910692 29317 71257a50595417eb97e728feb341a948 ""
   "zd_ee_lxy_1p2_ptG30.png" 1734910694 28549 bf602fce3969a45026df9f3f1eb88613 ""

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.23)  23 DEC 2024 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.23)  23 DEC 2024 11:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_llpnanoAOD/main.tex
-(/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_llpnanoAOD/main.tex
+**/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_ffNtuple/main.tex
+(/Users/mariajose/vsCode/Latex/LeptonJetRecoEffi_ffNtuple/main.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1133,45 +1133,45 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 109.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<logos.png, id=15, 832.10875pt x 82.3075pt>
-File: logos.png Graphic file (type png)
-<use logos.png>
-Package pdftex.def Info: logos.png  used on input line 109.
+<../UniversityLogos/logos.png, id=15, 832.10875pt x 82.3075pt>
+File: ../UniversityLogos/logos.png Graphic file (type png)
+<use ../UniversityLogos/logos.png>
+Package pdftex.def Info: ../UniversityLogos/logos.png  used on input line 109.
 (pdftex.def)             Requested size: 341.43343pt x 28.45262pt.
 
 
-<CMSlogo.png, id=17, 289.08pt x 289.08pt>
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 109.
+<../UniversityLogos/CMSlogo.png, id=17, 289.08pt x 289.08pt>
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 109.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-<lpcdm_logo.png, id=18, 364.36125pt x 537.00626pt>
-File: lpcdm_logo.png Graphic file (type png)
-<use lpcdm_logo.png>
-Package pdftex.def Info: lpcdm_logo.png  used on input line 109.
+<../UniversityLogos/lpcdm_logo.png, id=18, 364.36125pt x 537.00626pt>
+File: ../UniversityLogos/lpcdm_logo.png Graphic file (type png)
+<use ../UniversityLogos/lpcdm_logo.png>
+Package pdftex.def Info: ../UniversityLogos/lpcdm_logo.png  used on input line 109.
 (pdftex.def)             Requested size: 19.30327pt x 28.44972pt.
 
 Overfull \vbox (87.374pt too high) has occurred while \output is active []
 
  [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./CMSlogo.png> <./lpcdm_logo.png> <./logos.png>]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../UniversityLogos/CMSlogo.png> <../UniversityLogos/lpcdm_logo.png> <../UniversityLogos/logos.png>]
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 133.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 133.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-<rotunda.jpg, id=60, 222.8325pt x 227.85126pt>
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 133.
+<../UniversityLogos/rotunda.jpg, id=60, 222.8325pt x 227.85126pt>
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 133.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
 
  [2
 
- <./rotunda.jpg>]
+ <../UniversityLogos/rotunda.jpg>]
 <FeyDia.jpg, id=90, 2527.4425pt x 1002.74625pt>
 File: FeyDia.jpg Graphic file (type jpg)
 <use FeyDia.jpg>
@@ -1193,13 +1193,13 @@ Overfull \vbox (1.26962pt too high) detected at line 185
 
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 185.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 185.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 185.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 185.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1213,13 +1213,13 @@ Overfull \hbox (3.04166pt too wide) in paragraph at lines 235--235
 
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 235.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 235.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 235.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 235.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1234,13 +1234,13 @@ Package pdftex.def Info: zd_pt_0.25.png  used on input line 261.
 (pdftex.def)             Requested size: 113.80666pt x 113.80591pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 261.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 261.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 261.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 261.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1249,13 +1249,13 @@ Overfull \vbox (80.2608pt too high) has occurred while \output is active []
 
  <./zd_pt_0.25.png>]
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 275.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 275.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 275.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 275.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1270,13 +1270,13 @@ Package pdftex.def Info: ee_collimation.png  used on input line 294.
 (pdftex.def)             Requested size: 284.5138pt x 113.80666pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 294.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 294.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 294.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 294.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1285,13 +1285,13 @@ Overfull \vbox (80.2608pt too high) has occurred while \output is active []
 
  <./ee_collimation.png>]
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 299.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 299.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 299.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 299.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1325,13 +1325,13 @@ Overfull \vbox (4.02138pt too high) detected at line 343
 
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 343.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 343.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 343.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 343.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1360,13 +1360,13 @@ Overfull \vbox (21.16333pt too high) detected at line 380
 
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 380.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 380.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 380.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 380.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1391,13 +1391,13 @@ Package pdftex.def Info: genE_genE_dR_ptG30_LxyUpto150_5.png  used on input line
 (pdftex.def)             Requested size: 85.35779pt x 85.3576pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 411.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 411.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 411.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 411.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1412,13 +1412,13 @@ Package pdftex.def Info: zd_ee_lxy_dR_1p2.png  used on input line 428.
 (pdftex.def)             Requested size: 341.40852pt x 99.57907pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 428.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 428.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 428.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 428.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1427,13 +1427,13 @@ Overfull \vbox (80.2608pt too high) has occurred while \output is active []
 
  <./zd_ee_lxy_dR_1p2.png>]
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 433.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 433.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 433.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 433.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1467,13 +1467,13 @@ Overfull \vbox (4.02473pt too high) detected at line 476
 
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 476.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 476.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 476.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 476.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1498,13 +1498,13 @@ Package pdftex.def Info: zd_mumu_lxy_5_ptG30.png  used on input line 503.
 (pdftex.def)             Requested size: 85.3524pt x 85.35814pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 503.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 503.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 503.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 503.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1529,13 +1529,13 @@ Package pdftex.def Info: genMu_genMu_dR_ptG30_LxyUpto400_5.png  used on input li
 (pdftex.def)             Requested size: 85.35779pt x 85.3539pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 526.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 526.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 526.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 526.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1550,13 +1550,13 @@ Package pdftex.def Info: zd_mumu_lxy_dR_5.png  used on input line 546.
 (pdftex.def)             Requested size: 341.40852pt x 99.57907pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 546.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 546.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 546.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 546.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1571,13 +1571,13 @@ Package pdftex.def Info: zd_mumu_pt_dR_5.png  used on input line 564.
 (pdftex.def)             Requested size: 341.40852pt x 99.57751pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 564.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 564.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 564.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 564.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1602,13 +1602,13 @@ Package pdftex.def Info: zd_mumu_pt_dR_5_2dsa.png  used on input line 602.
 (pdftex.def)             Requested size: 227.61629pt x 56.9pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 602.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 602.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 602.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 602.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1623,13 +1623,13 @@ Package pdftex.def Info: zd_mumu_genMu1_pt_dR_5_2dsa.png  used on input line 620
 (pdftex.def)             Requested size: 341.40852pt x 99.57898pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 620.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 620.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 620.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 620.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1644,13 +1644,13 @@ Package pdftex.def Info: zd_mumu_genMu1_pt_dR_5_leadingpT_50to60.png  used on in
 (pdftex.def)             Requested size: 341.40852pt x 99.57898pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 639.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 639.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 639.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 639.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1659,13 +1659,13 @@ Overfull \vbox (80.2608pt too high) has occurred while \output is active []
 
  <./zd_mumu_genMu1_pt_dR_5_leadingpT_50to60.png>]
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 655.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 655.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 655.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 655.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1674,13 +1674,13 @@ Overfull \vbox (80.2608pt too high) has occurred while \output is active []
 
 ]
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 660.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 660.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 660.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 660.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1689,13 +1689,13 @@ Overfull \vbox (80.2608pt too high) has occurred while \output is active []
 
 ]
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 665.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 665.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 665.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 665.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1735,13 +1735,13 @@ Package pdftex.def Info: zd_mumu_lxy_5_ptG30_gLj.png  used on input line 690.
 (pdftex.def)             Requested size: 85.3524pt x 85.35814pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 690.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 690.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 690.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 690.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1756,13 +1756,13 @@ Package pdftex.def Info: zd_ee_pt_dR_1p2.png  used on input line 704.
 (pdftex.def)             Requested size: 341.40852pt x 99.57751pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 704.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 704.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 704.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 704.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1777,13 +1777,13 @@ Package pdftex.def Info: zd_ee_lxy_pT_1p2.png  used on input line 719.
 (pdftex.def)             Requested size: 341.41293pt x 99.57907pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 719.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 719.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 719.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 719.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1823,13 +1823,13 @@ Package pdftex.def Info: zd_mumu_lxy_5_ptG30_dsaMuLj.png  used on input line 746
 (pdftex.def)             Requested size: 85.3524pt x 85.35814pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 746.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 746.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 746.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 746.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1844,13 +1844,13 @@ Package pdftex.def Info: zd_mumu_lxy_pt_5.png  used on input line 761.
 (pdftex.def)             Requested size: 341.41293pt x 99.57907pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 761.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 761.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 761.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 761.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1870,13 +1870,13 @@ Package pdftex.def Info: zd_mumu_genMu1_pt_dR_5.png  used on input line 774.
 (pdftex.def)             Requested size: 227.61629pt x 71.13257pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 774.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 774.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 774.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 774.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1891,13 +1891,13 @@ Package pdftex.def Info: image (15).png  used on input line 785.
 (pdftex.def)             Requested size: 341.4338pt x 99.5842pt.
 
 
-File: CMSlogo.png Graphic file (type png)
-<use CMSlogo.png>
-Package pdftex.def Info: CMSlogo.png  used on input line 785.
+File: ../UniversityLogos/CMSlogo.png Graphic file (type png)
+<use ../UniversityLogos/CMSlogo.png>
+Package pdftex.def Info: ../UniversityLogos/CMSlogo.png  used on input line 785.
 (pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-File: rotunda.jpg Graphic file (type jpg)
-<use rotunda.jpg>
-Package pdftex.def Info: rotunda.jpg  used on input line 785.
+File: ../UniversityLogos/rotunda.jpg Graphic file (type jpg)
+<use ../UniversityLogos/rotunda.jpg>
+Package pdftex.def Info: ../UniversityLogos/rotunda.jpg  used on input line 785.
 (pdftex.def)             Requested size: 27.82338pt x 28.45004pt.
 
 Overfull \vbox (80.2608pt too high) has occurred while \output is active []
@@ -1924,12 +1924,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  29376 strings out of 473330
- 613432 string characters out of 5719762
- 961973 words of memory out of 5000000
+ 613958 string characters out of 5719762
+ 962030 words of memory out of 5000000
  51856 multiletter control sequences out of 15000+600000
  576145 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,579b,1144s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,577b,1144s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 Output written on main.pdf (31 pages, 2464100 bytes).
 PDF statistics:
